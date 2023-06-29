@@ -187,3 +187,7 @@ body {
   background: #f8d45a;
   color : #000000;
 }
+
+.showList {
+  text-align: center;
+}
